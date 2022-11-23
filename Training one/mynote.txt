@@ -10,4 +10,4 @@ cd -to get in to that folder
 ls -to see what is in the file
 $cat to mak a text file using $cat filename.text
 $touch  to make emptytext file-4touch filename
-less to create file
+research less command
