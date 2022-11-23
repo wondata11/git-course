@@ -11,3 +11,4 @@ ls -to see what is in the file
 $cat to mak a text file using $cat filename.text
 $touch  to make emptytext file-4touch filename
 research less command
+cat returns the content of a file, ls will return a file name without reading contents of a file
